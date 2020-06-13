@@ -24,6 +24,7 @@
         <title>
             April Castañeda | Software Engineer Portfolio Site
         </title>
+        <!-- comment -->
     </head>
 
     <body>
