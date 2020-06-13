@@ -255,8 +255,10 @@ li {
     font-weight: 300;
     z-index: -1;
     position: relative;
-    top: -82px;
-    left: 6px;
+    top: -8.5rem;
+    left: .5rem;
+/*    top: -82px;
+    left: 6px;*/
 }
 
 .profile-img {
