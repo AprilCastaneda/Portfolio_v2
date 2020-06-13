@@ -209,7 +209,6 @@ li {
     text-align: center;
     z-index: 1; 
     font-weigth: bold;
-    margin-bottom:-1px; /* Get rid of phantom line borders on ipad */
 }
 
 .landing-text h1 {
@@ -220,6 +219,7 @@ li {
     -webkit-text-fill-color: transparent;
     padding: 1rem;
     user-select: none;
+    margin-bottom:-1px; /* Get rid of phantom line borders on ipad */
 }
 
 .landing-text h6 {
