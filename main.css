@@ -493,8 +493,6 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover{
-/*    color: #3f402c;*/
-/*    background-color: #fcab56;*/
     background-color: #fd57bf;
 }
 
