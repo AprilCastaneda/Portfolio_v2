@@ -132,7 +132,7 @@ header {
     justify-content: center; /* Put all items in center horizontally */
     align-items: center; /* Put all items in center vertically */
     position: relative;
-    left: -3rem; /*changed*/
+    left: -2rem; /*changed*/
 }
 
 li {
