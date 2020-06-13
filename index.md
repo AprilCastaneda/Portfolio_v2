@@ -141,7 +141,7 @@
                                 Low-level I/O web app. Developed with MASM x86 Assembly.
                             </p>
                             <p>
-                                This program implements low-level I/O procedures and macros. It reads signed integers from the user, displays the integers, their sume, and their average.
+                                This program implements low-level I/O procedures and macros. It reads signed integers from the user, displays the integers, their sum, and their average.
                             </p>
                             <a href="https://github.com/AprilCastaneda/MASM_Macro_Proc" class="cta">Github</a>
                         </div>
@@ -306,12 +306,12 @@
                 <div class="webSection" id="webSection">
                     <!-- Rotten Guavas -->
                     <div class="portfolio-item">
-                        <div class="portfolio-img has-margin-right" data-aos="fade-right" data-aos-delay="1500">
+                        <div class="portfolio-img has-margin-right" data-aos="fade-right" data-aos-delay="300">
                             <a href="https://bit.ly/30nDfgr">
                                 <img src="images/rottenGuavas.jpg">
                             </a>
                         </div>
-                        <div class="portfolio-description" data-aos="fade-left" data-aos-delay="1800">
+                        <div class="portfolio-description" data-aos="fade-left" data-aos-delay="600">
                             <h6>Web Development</h6>
                             <h1>Rotten Guavas</h1>
                             <p>
