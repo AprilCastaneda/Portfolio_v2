@@ -109,14 +109,12 @@ header {
     width: 100%;
     height: 100vh;
     position: fixed;
-    top: 0;
-    left: 0;
-    top: -100vh; 
-    z-index: 50; 
+    top: -100vh; /* Hides nav */
+    z-index: 50; /* Should be on top */
     background-color: #26231c;
     border-bottom-right-radius: 100%;
     border-bottom-left-radius: 100%;
-    transition: all 650ms cubic-bezier(1,0,0,1);  
+    transition: all 650ms cubic-bezier(1,0,0,1);  /* Transition takes 650ms and is slow, fast, slow */
 }
 
 .top-nav.open {
@@ -205,7 +203,7 @@ li {
     transform: translate(-50%, -50%);
     width: 100%;
     text-align: center;
-    z-index: 1; 
+    z-index: 1; /* Stay on top */
     font-weigth: bold;
 }
 
@@ -220,8 +218,6 @@ li {
 }
 
 .landing-text h6 {
-    position: relative;
-    top: -90px;
     font-size: 2rem;
     font-weight: 300;
 }
@@ -239,8 +235,7 @@ li {
     text-align: center;
     text-transform: uppercase;
     line-height: 0;
-    margin-bottom: -5rem;
-
+    margin-bottom: 6rem;
 }
 
 .about-heading h1 {
@@ -251,10 +246,6 @@ li {
 .about-heading h6 {
     font-size: 2rem;
     font-weight: 300;
-    z-index: -1;
-    position: relative;
-    top: -82px;
-    left: 6px;
 }
 
 .profile-img {
@@ -348,7 +339,7 @@ li {
 
 /* Start More portfolio */
 
-#appSection{
+/*#appSection{
     display: none;
 }
 
@@ -375,7 +366,7 @@ li {
     color: #3f402c;
     background-color: #ffe838;
     cursor: default;
-}
+}*/
 
 /* End More portfolio */
 
