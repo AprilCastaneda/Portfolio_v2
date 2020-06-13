@@ -132,7 +132,7 @@ header {
     justify-content: center; /* Put all items in center horizontally */
     align-items: center; /* Put all items in center vertically */
     position: relative;
-    left: -40px; /*changed*/
+    left: -3rem; /*changed*/
 }
 
 li {
@@ -493,7 +493,7 @@ input[type="submit"]:hover{
     text-align: center;
     background-color: #23231C;
     padding: 2rem 0;
-    position: relative;
+    position: relative
 }
 
 .up {
