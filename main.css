@@ -209,6 +209,7 @@ li {
     text-align: center;
     z-index: 1; 
     font-weigth: bold;
+    margin-bottom:-1px; /* Get rid of phantom line borders on ipad */
 }
 
 .landing-text h1 {
@@ -493,7 +494,7 @@ input[type="submit"]:hover{
     text-align: center;
     background-color: #23231C;
     padding: 2rem 0;
-    position: relative
+    position: relative;
 }
 
 .up {
